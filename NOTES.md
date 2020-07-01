@@ -6,7 +6,10 @@
 
 
 ## TODO
-
+1. color the annotations (red bear and green bull)
+1. find out about where to place zeroes
+1. use a better UI (faster and with a more intuitive control... zoom out... maybe use a slider/scroll bar? Maybe... make my own?)
+1. README
 
 ## Important Realizations
 * don't forget to use the `parse_date` flag when reading with `pd.read_csv`... and know that dates in simple string are not automatically recognized by matplotlib...
